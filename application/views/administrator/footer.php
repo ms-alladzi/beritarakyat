@@ -1,0 +1,1 @@
+<strong>Copyright &copy; <?php echo date('Y'); ?> <a target='_BLANK' href="https://www.beritarakyat.co.id/"> PT. Berita Rakyat Indonesia - Berita Untuk Rakyat </a>.</strong> All rights reserved.
